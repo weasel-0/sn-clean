@@ -1,0 +1,14 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.weasel-0.sn-clean",
+  "name": "SN Clean",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "Changes the font of Standard notes.",
+  "version": "v0.0.1",
+  "url": "",
+  "download_url": "https://github.com/christianhans/sn-sf-pro-text-font/archive/0.0.1.zip",
+}

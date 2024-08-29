@@ -1,0 +1,12 @@
+{
+  "name": "sn-clean",
+  "version": "0.0.1",
+  "main": "main.css",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/weasel-0/sn-clean.git"
+  }
+}
